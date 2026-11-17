@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "FY2633v3Wck=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sulagna.mondal\\OneDrive - Acuvate Software Private Limited\\Desktop\\webapi\\webapplication\\webapp\\webapp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sulagna.mondal\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.12\\microsoft.aspnetcore.openapi.10.0.12.nupkg.sha512",
+    "C:\\Users\\sulagna.mondal\\.nuget\\packages\\microsoft.openapi\\2.12.0\\microsoft.openapi.2.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}
